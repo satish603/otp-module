@@ -1,4 +1,4 @@
-# Python-whatsapp-otp-module
+# otp-module
  OTP authentication is an elegant solution to both security concerns and UX. 
 ### Prerequisite
 - Learn Firebase fundamentals. Get started with a Firebase project.
