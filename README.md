@@ -13,5 +13,5 @@ See Example below
 2. Service Accounts ->
 3. Generate new private key
 
-### whatsapp API is now deprecated will be back later
+### whatsapp API is ACTIVE NOW
 ![1](https://user-images.githubusercontent.com/60779510/131218563-bec45343-9699-43e7-a9a8-c3d49caba333.png)
